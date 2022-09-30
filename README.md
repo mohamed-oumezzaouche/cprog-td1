@@ -124,7 +124,7 @@ Vous pouvez répondre en utilisant le shell de votre choix (*bash*, *Powershell*
 Pour répondre à ces questions, vous devez effectuer les recherches documentaires adéquates (livre, web, …).
 
 1. Quel OS et quel shell de commande utilisez-vous ?
-    > Répondre ici
+    > Windows 10 et Git Bash
 1. Quelle commande permet d'obtenir de l'aide ?
 Donnez un exemple.
     ```bash
