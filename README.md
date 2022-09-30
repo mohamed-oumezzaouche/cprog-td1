@@ -175,24 +175,24 @@ Pour réaliser cette exercice, vous devez bien évidemment vous reporter à la d
 
     Pour la suite, ne considérez que l'un de vos choix.
 1. Comment vérifier/définir que l'encodage utilisé est *UTF-8* ?
-    > Répondre ici
+    > Window -> Preferences -> Expand General and click Workspace, text file encoding (near bottom) has an encoding chooser. Select "Other" radio button -> Select UTF-8 from the drop down
 1. Comment choisir le JDK à utiliser dans un projet ?
-    > Répondre ici
+    > Il est possible de modifier la version du JDK à utiliser dans les préférences du projet. Il suffit de sélectionner « Compilateur Java » dans l'arborescence et de sélectionner la version du JDK à utiliser.
 1. Comment préciser la version Java des sources dans un projet ?
-    > Répondre ici
+    > Lors de la création d'un projet, il est possible de changer la compatibilité propre du projet entre 1.3, 1.4 et 5.0
 1. Comment ajouter une bibliothèque externe dans un projet ?
-    > Répondre ici
+    > Sélectionner l'entrée Properties du menu Project. Dans la boîte de dialogue qui s'ouvre, sélectionner l'entrée Java Build Path. Activer l'onglet Libraries et cliquer sur Add
 1. Comment reformater un fichier source Java ?
-    > Répondre ici
+    > Cliquer avec le bouton droit sur le package que l'on formater, puis choisissez Source -> Format. Il formatera toutes les classes de ce paquet et de ses sous-paquets.
 1. Comment trouver la déclaration d'une variable ou méthode ?
-    > Répondre ici
+    > On peut les trouver dans la petite console "outlie" en bas à droite de l'écran.
 1. Comment insérer un bloc de code prédéfini (*snippet*) ?
-    > Répondre ici
+    > en passant la souris sur une erruer de code qui demande l'implémentation de certaines méthodes par exemple.
 1. Comment renommer une classe dans l'ensemble du projet ?
-    > Répondre ici
+    > Il suffit de faire un clic droit sur la classe dans l'explorateur de projet et de sélectionner "Refactor" -> "Rename". Cela se trouve sous le sous-menu "Refactor".
 1. Comment exécuter le programme en lui passant un paramètre en ligne de commande ?
-    > Répondre ici
+    > on peut faire ça dans Run configurations
 1. Comment déboguer le programme en visualisant le contenu d'une ou plusieurs variables ?
-    > Répondre ici
+    > on peut afficher la variable dans la console avec un System.out.printf et le bon format de typage pour la variable.
 1. Quels paramètres ou fonctionnalités vous semblent particulièrement importants/utiles pour le développement Java ?
-    > Répondre ici
+    > passe une ligne de commande en param, tester la valeur des variables
