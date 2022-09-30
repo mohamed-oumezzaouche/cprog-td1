@@ -157,11 +157,11 @@ Donnez un exemple.
         ```
 1. Expliquez en une ou deux phrases le rôle de ces commandes et dans quel contexte elles peuvent être utiles pour un développeur.
     * `ssh`
-        > Répondre ici
+        La commande ssh fournit une connexion cryptée sécurisée entre deux hôtes sur un réseau non sécurisé.
     * `screen`/`tmux`
-        > Répondre ici
+        Utile au cas où la connexion SSH s'interrompt
     * `curl`/[HTTPie](https://httpie.org/)
-        > Répondre ici
+        permet de parler à un serveur en spécifiant l'emplacement (sous la forme d'une URL) et les données souhaités.
     * [jq](https://stedolan.github.io/jq/)
         > Répondre ici
 
@@ -171,7 +171,7 @@ Vous pouvez choisir l'IDE/éditeur de texte de votre choix.
 Pour réaliser cette exercice, vous devez bien évidemment vous reporter à la documentations de l'IDE ([IntelliJ IDEA](https://www.jetbrains.com/help/idea/discover-intellij-idea.html#developer-tools), [Visual Studio Code](https://code.visualstudio.com/docs), [Eclipse](https://help.eclipse.org/2020-09/index.jsp), …).
 
 1. Quels IDE ou éditeurs de texte utilisez-vous pour le développement Java ?
-    > Répondre ici
+    Eclipse
 
     Pour la suite, ne considérez que l'un de vos choix.
 1. Comment vérifier/définir que l'encodage utilisé est *UTF-8* ?
